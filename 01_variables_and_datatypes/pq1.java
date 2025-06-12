@@ -9,6 +9,5 @@ public class pq1 {
         System.out.println("Enter third Number:");
         float c=sc.nextFloat();
         System.out.println((a+b+c)/3);
-
     }
 }
