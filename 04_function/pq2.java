@@ -11,3 +11,7 @@ public class pq2 {
         System.out.println(isEven(a));
     }
 }
+
+
+
+
