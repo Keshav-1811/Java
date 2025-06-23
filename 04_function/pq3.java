@@ -14,6 +14,6 @@ public class pq3 {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter number: ");
         int n=sc.nextInt();
-        System.out.println("The sum of digits of "+n+" is "+addition(n));
+        System.out.println("The sum of digits of "+n+" is "+addition(np));
     }
 }
